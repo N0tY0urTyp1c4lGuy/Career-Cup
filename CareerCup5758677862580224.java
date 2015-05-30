@@ -1,5 +1,8 @@
 package careerCup;
 /*
+	Author: Christian Balderrama
+	Email: softwaredevxtian@yahoo.com
+	
   		Question:
 		Given an unsorted array of integers find a minimum number which is not present in array.
 		e.g -1 ,4, 5, -23,24 is array then answer should be -22.
