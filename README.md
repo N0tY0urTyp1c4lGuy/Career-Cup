@@ -1,6 +1,5 @@
 # Career-Cup
-This repository is created to share my answers and idea to other people on how to solve algorithmic problems.
 
-Author: Christian Balderrama
-Email: softwaredevxtian@yahoo.com
-Follow me up on Twitter @DevSlashXtian
+
+#Author: Christian Balderrama
+#Follow me up on <a href = "https://twitter.com/devslashxtian">Twitter</a> | <a href = "https://facebook.com/christian.balderrama.71">Facebook</a>
